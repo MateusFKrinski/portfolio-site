@@ -394,14 +394,15 @@ img{
 .about__info{
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: var(--mb-2-5);
+    margin-bottom: var(--mb-2-5);    
+    text-align: center;
 }
 
 .about__info-title{
     font-size: var(--h2-font-size);
 }
 
-.abouut__info-name{
+.about__info-name{
     font-size: var(--small-font-size); 
     font-weight: var(--font-semi-bold);
     color: var(--title-color);
@@ -410,7 +411,6 @@ img{
 .about__info-title,
 .about__info-name{
     display: block;
-    text-align: center;
 }
 
 .about__buttons{
