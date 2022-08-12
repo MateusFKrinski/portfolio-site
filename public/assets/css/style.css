@@ -375,6 +375,7 @@ img{
 }
 
 .button--flex{
+    border: none;
     display: inline-flex;
     align-items: center;
 }
@@ -484,11 +485,11 @@ img{
 }
 
 .skills__html{
-    width: 90%;
+    width: 75%;
 }
 
 .skills__css{
-    width: 80%;
+    width: 65%;
 }
 
 .skills__javascript{
@@ -496,35 +497,35 @@ img{
 }
 
 .skills__react{
-    width: 85%;
+    width: 35%;
 }
 
-.skills__php{
-    width: 90%;
+.skills__java{
+    width: 40%;
 }
 
 .skills__nodejs{
-    width: 80%;
+    width: 30%;
 }
 
 .skills__firebase{
-    width: 60%;
+    width: 20%;
 }
 
 .skills__python{
-    width: 85%;
+    width: 35%;
 }
 
 .skills__figma{
-    width: 90%;
+    width: 40%;
 }
 
 .skills__sketch{
-    width: 80%;
+    width: 40%;
 }
 
 .skills__photoshop{
-    width: 60%;
+    width: 50%;
 }
 
 .skills__close .skills__list{
