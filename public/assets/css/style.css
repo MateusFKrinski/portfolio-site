@@ -110,7 +110,6 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
   background-color: var(--first-color-ligther);
-  border-radius: 20px;
 }
 
 h1,
@@ -716,6 +715,7 @@ img {
 }
 
 .services__modal-close {
+  cursor: pointer;
   position: absolute;
   top: 1rem;
   right: 1.5rem;
