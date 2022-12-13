@@ -388,6 +388,7 @@ img {
   border-radius: 1rem;
   justify-content: center;
   margin-left: calc(50% - 125px);
+  background-color:var(--first-color);
 }
 
 .about__description {
